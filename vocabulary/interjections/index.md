@@ -1,0 +1,15 @@
+# Interjections
+
+- [allô](allô.md)
+- [bonjour](bonjour.md)
+- [bonsoir](bonsoir.md)
+- [ça ne va pas](ça-ne-va-pas.md)
+- [ça va bien, merci](ça-va-bien-merci.md)
+- [comme ci, comme ça](comme-ci-comme-ça.md)
+- [comment allez-vous ?](comment-allez-vous.md)
+- [comment ça va ?](comment-ça-va.md)
+- [comment vas-tu ?](comment-vas-tu.md)
+- [coucou](coucou.md)
+- [pas mal](pas-mal.md)
+- [salut](salut.md)
+- [très bien](très-bien.md)
