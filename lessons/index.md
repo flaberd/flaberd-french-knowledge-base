@@ -13,3 +13,4 @@
 - [lesson_00011](lesson_00011.md) — Leçon 12 : 1 groupe (verbe) recap + nuance (2025-08-06)
 - [lesson_00012](lesson_00012.md) — Leçon 13 : Accents (préférer, acheter, jeter, appeler, -cer) (2025-08-09)
 - [lesson_00013](lesson_00013.md) — Leçon 14 : Je me lave. Je me regarde. Les verbes pronominaux (2025-08-13)
+- [lesson_00014](lesson_00014.md) — Leçon 15 : RECAP — verbes pronominaux, la semaine, les nombres 0–50 (2025-08-16)
