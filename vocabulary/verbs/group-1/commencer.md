@@ -34,15 +34,23 @@ Present tense: je commence, tu commences, il/elle/on commence, nous commençons,
 
 - Je commenc___ à 9 heures. (commencer)
 - ___ à 10 heures. (commencer)
+- Je commence tôt. Tu commences quand? Il commence tard. Nous commençons à sept heures. Vous commencez maintenant? Ils commencent demain.
 
 ---
 
-# Notes
+# Irregularities *(if applicable)*
 
-Like other -cer verbs, the nous form is expected to take a cedilla (commençons) to keep the "c" soft before "o" — this specific spelling nuance has not yet been explicitly taught in the source lessons (only the -ger nous exception has, via [grammar/first-group-verbs-present.md](../../../grammar/first-group-verbs-present.md)); recorded here as a gap for a future lesson.
+-cer verb: the nous form takes a cedilla (commençons, not commencons) to keep the "c" soft before "o". See [grammar/first-group-verbs-present.md](../../../grammar/first-group-verbs-present.md).
+
+---
+
+# Related Grammar *(if applicable)*
+
+- [grammar/first-group-verbs-present.md](../../../grammar/first-group-verbs-present.md)
 
 ---
 
 # Source Lessons
 
 - [lesson_00011](../../../lessons/lesson_00011.md)
+- [lesson_00012](../../../lessons/lesson_00012.md)

@@ -11,3 +11,5 @@
 - [lesson_00009](lesson_00009.md) — Leçon 10 : Être ? - : Nuances (2025-07-30)
 - [lesson_00010](lesson_00010.md) — Leçon 11 : 1 groupe (verbe) (2025-08-02)
 - [lesson_00011](lesson_00011.md) — Leçon 12 : 1 groupe (verbe) recap + nuance (2025-08-06)
+- [lesson_00012](lesson_00012.md) — Leçon 13 : Accents (préférer, acheter, jeter, appeler, -cer) (2025-08-09)
+- [lesson_00013](lesson_00013.md) — Leçon 14 : Je me lave. Je me regarde. Les verbes pronominaux (2025-08-13)

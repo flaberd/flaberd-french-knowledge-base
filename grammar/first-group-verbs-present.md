@@ -34,6 +34,21 @@ Verbs ending in *-ger* insert an extra silent "e" before the *-ons* ending, to k
 
 Other verbs with the same pattern: partager → nous partageons. nager → nous nageons. voyager → nous voyageons.
 
+## -CER verbs: nous exception
+
+Verbs ending in *-cer* take a cedilla before the *-ons* ending, to keep the "c" sound soft: **commençons** (not *commencons*).
+
+| Pronom | Terminaison | COMMENCER |
+|---|---|---|
+| Je | -e | commence |
+| tu | -es | commences |
+| il / elle / on | -e | commence |
+| **nous** | **-ons** | **commençons** |
+| vous | -ez | commencez |
+| ils/elles | -ent | commencent |
+
+Other verbs with the same pattern: lancer → nous lançons. avancer → nous avançons.
+
 ## Negation
 
 Subject + **ne** + verb + **pas**: je ne parle pas, tu ne parles pas, il ne parle pas, nous ne parlons pas, vous ne parlez pas, ils ne parlent pas. See [grammar/negation.md](negation.md).
@@ -43,8 +58,10 @@ Subject + **ne** + verb + **pas**: je ne parle pas, tu ne parles pas, il ne parl
 - [grammar/verb-groups.md](verb-groups.md)
 - [grammar/negation.md](negation.md)
 - [grammar/interrogation.md](interrogation.md)
+- [grammar/er-verbs-stem-changes.md](er-verbs-stem-changes.md) — accent/consonant-doubling stem changes for verbs like *acheter*, *préférer*, *jeter*, *appeler*.
 
 ## Source Lessons
 
 - [lesson_00010](../lessons/lesson_00010.md)
 - [lesson_00011](../lessons/lesson_00011.md)
+- [lesson_00012](../lessons/lesson_00012.md)
