@@ -9,3 +9,5 @@
 - [lesson_00007](lesson_00007.md) — Leçon 8 : Recap + new rules (2025-07-23)
 - [lesson_00008](lesson_00008.md) — Leçon 9 : Ils sont/Elles sont (2025-07-26)
 - [lesson_00009](lesson_00009.md) — Leçon 10 : Être ? - : Nuances (2025-07-30)
+- [lesson_00010](lesson_00010.md) — Leçon 11 : 1 groupe (verbe) (2025-08-02)
+- [lesson_00011](lesson_00011.md) — Leçon 12 : 1 groupe (verbe) recap + nuance (2025-08-06)

@@ -2,6 +2,7 @@
 
 This section contains grammar and pronunciation topics that have been studied.
 
+- [1er groupe verbs (-er): present tense](first-group-verbs-present.md)
 - [Adjective agreement: feminine forms](adjective-agreement-feminine.md)
 - [Adjective agreement: plural forms](adjective-agreement-plural.md)
 - [Alphabet](alphabet.md)
@@ -14,5 +15,6 @@ This section contains grammar and pronunciation topics that have been studied.
 - [Pronunciation of the letter G](pronunciation-letter-g.md)
 - [Pronunciation of the letter S](pronunciation-letter-s.md)
 - [Silent final letters](silent-final-letters.md)
+- [Verb groups (1er, 2e, 3e groupe)](verb-groups.md)
 - [Vowel combinations](vowel-combinations.md)
 - [Word stress](word-stress.md)
