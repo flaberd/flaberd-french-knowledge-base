@@ -1,0 +1,197 @@
+{
+  "main": {
+    "id": "2624619f30a6866f",
+    "type": "split",
+    "children": [
+      {
+        "id": "c5048fcf6fda22ff",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5ea8db33c43f86fc",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b3b6eb13a562f2b0",
+    "type": "split",
+    "children": [
+      {
+        "id": "ff1c08b1a54043d4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d03b88b9cb922219",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "1878f7a6b649d9e4",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "1b04429fed9491fc",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "4b8b8dc005e3b174",
+    "type": "split",
+    "children": [
+      {
+        "id": "0f297563f8de48a2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2a8b27ab9aba1d9b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "4d34eec59c558793",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "5501b3252dc029aa",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "266d7b3d720c7784",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "69fdd2c0f0693a48",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 316.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "5ea8db33c43f86fc",
+  "lastOpenFiles": [
+    "resources/raw/Anatolii_Lesson_3_06._28_La_phonétique_2.pptx.pdf",
+    "lessons/lesson_00001.md",
+    "grammar/alphabet.md",
+    "vocabulary/nouns/chat.md",
+    "vocabulary/nouns/index.md",
+    "vocabulary/index.md",
+    "index.md",
+    "resources/processed/Anatolii_Lesson_2_06.25_La_phonetique_.pdf",
+    "grammar/pronunciation-letter-c.md",
+    "grammar/index.md",
+    "vocabulary/nouns/veste.md",
+    "grammar/silent-final-letters.md",
+    "grammar/word-stress.md",
+    "grammar/pronunciation-letter-s.md",
+    "lessons/index.md"
+  ]
+}
