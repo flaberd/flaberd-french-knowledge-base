@@ -1,0 +1,11 @@
+services:
+  workspace:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: markdown-workspace
+    working_dir: /workspace
+    volumes:
+      - .:/workspace
+    stdin_open: true
+    tty: true

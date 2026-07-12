@@ -1,0 +1,8 @@
+{
+    "name": "flaberd-french-knowledge-base",
+    "dockerComposeFile": "../docker-compose.yml",
+    "service": "workspace",
+    "workspaceFolder": "/workspace",
+    "shutdownAction": "none",
+    "remoteUser": "root"
+}
