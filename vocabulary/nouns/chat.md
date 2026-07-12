@@ -46,3 +46,4 @@ Used in the alphabet spelling-practice exercise (spelled out as C-H-A-T) and in 
 # Source Lessons
 
 - [lesson_00001](../../lessons/lesson_00001.md)
+- [lesson_00002](../../lessons/lesson_00002.md)

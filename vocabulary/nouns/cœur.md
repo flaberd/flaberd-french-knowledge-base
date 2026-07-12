@@ -46,3 +46,4 @@ Used as a practice word for the letter C (C not before i/e/y → [k]). See [pron
 # Source Lessons
 
 - [lesson_00001](../../lessons/lesson_00001.md)
+- [lesson_00002](../../lessons/lesson_00002.md)

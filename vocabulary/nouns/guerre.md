@@ -38,10 +38,11 @@ des guerres
 
 # Notes
 
-Introduced in the homework list; the letter **G** itself will be covered in the next lesson, so its pronunciation rules are not yet documented in `grammar/`.
+Introduced in the homework list in lesson 1. The letter **G** was covered in lesson 2, and *guerre* is also used there as the example word for "gu" + vowel → [g]. See [pronunciation of the letter G](../../grammar/pronunciation-letter-g.md).
 
 ---
 
 # Source Lessons
 
 - [lesson_00001](../../lessons/lesson_00001.md)
+- [lesson_00002](../../lessons/lesson_00002.md)

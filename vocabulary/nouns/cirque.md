@@ -46,3 +46,4 @@ Used as the example word for "C before i, e, y → [s]". See [pronunciation of t
 # Source Lessons
 
 - [lesson_00001](../../lessons/lesson_00001.md)
+- [lesson_00002](../../lessons/lesson_00002.md)

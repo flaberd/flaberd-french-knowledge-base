@@ -41,9 +41,16 @@ Words practiced by spelling them letter by letter aloud:
 - GASPARD
 - VINCENT
 - ORDINATEUR
+- JAMBON
+- EXCLUEZ
+- VOYAGE
+- PYJAMA
+- WAGON
+- ETATSUNI
 
 ---
 
 # Source Lessons
 
 - [lesson_00001](../lessons/lesson_00001.md)
+- [lesson_00002](../lessons/lesson_00002.md)
