@@ -14,3 +14,5 @@
 - [lesson_00012](lesson_00012.md) — Leçon 13 : Accents (préférer, acheter, jeter, appeler, -cer) (2025-08-09)
 - [lesson_00013](lesson_00013.md) — Leçon 14 : Je me lave. Je me regarde. Les verbes pronominaux (2025-08-13)
 - [lesson_00014](lesson_00014.md) — Leçon 15 : RECAP — verbes pronominaux, la semaine, les nombres 0–50 (2025-08-16)
+- [lesson_00015](lesson_00015.md) — Leçon 16 : Un homme, une femme, un arbre + des (2025-08-20)
+- [lesson_00016](lesson_00016.md) — Leçon 17 : Une tour, un pont, des bateaux — la tour, le pont, les bateaux (2025-08-23)
