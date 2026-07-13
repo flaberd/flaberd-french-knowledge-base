@@ -1,6 +1,7 @@
 # Group 3 (irregular verbs)
 
 - [aller](aller.md)
+- [attendre](attendre.md)
 - [boire](boire.md)
 - [courir](courir.md)
 - [dire](dire.md)
@@ -14,5 +15,6 @@
 - [prendre](prendre.md)
 - [recevoir](recevoir.md)
 - [savoir](savoir.md)
+- [vendre](vendre.md)
 - [venir](venir.md)
 - [vouloir](vouloir.md)

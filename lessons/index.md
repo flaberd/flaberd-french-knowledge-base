@@ -16,3 +16,5 @@
 - [lesson_00014](lesson_00014.md) — Leçon 15 : RECAP — verbes pronominaux, la semaine, les nombres 0–50 (2025-08-16)
 - [lesson_00015](lesson_00015.md) — Leçon 16 : Un homme, une femme, un arbre + des (2025-08-20)
 - [lesson_00016](lesson_00016.md) — Leçon 17 : Une tour, un pont, des bateaux — la tour, le pont, les bateaux (2025-08-23)
+- [lesson_00017](lesson_00017.md) — Leçon 18 : L'adjectif possessif + les démonstratifs (2025-09-03)
+- [lesson_00018](lesson_00018.md) — Leçon 19 : EN FRANCE, À PARIS / AU JAPON, À TOKYO (2025-09-10)
