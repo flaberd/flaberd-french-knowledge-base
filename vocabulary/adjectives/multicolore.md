@@ -2,7 +2,7 @@
 
 ## French
 
-noir
+multicolore
 
 ## Part of Speech
 
@@ -10,30 +10,27 @@ Adjective
 
 ## Ukrainian
 
-чорний
+різнобарвний
 
 ## English
 
-black
+multicolored
 
 # Forms *(if applicable)*
 
 ## Masculine
 
-noir
+multicolore
 
 ## Feminine
 
-noire
+multicolore *(same form — regular -e ending)*
 
 ---
 
 # Examples
 
-- Est-ce qu'ils sont noirs?
-- Bip et Zaza (blanc/vert) — la mère de Zaza (vert/bleu).
-- le noir *(used as a masculine noun naming the color)*
-- Un pantalon __________. (noir) *(color-agreement exercise: un pantalon noir)*
+- multicolore *(listed in the color chart)*
 
 ---
 
@@ -45,5 +42,4 @@ noire
 
 # Source Lessons
 
-- [lesson_00009](../../lessons/lesson_00009.md)
 - [lesson_00019](../../lessons/lesson_00019.md)

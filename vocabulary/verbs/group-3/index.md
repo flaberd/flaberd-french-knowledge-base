@@ -2,6 +2,7 @@
 
 - [aller](aller.md)
 - [attendre](attendre.md)
+- [avoir](avoir.md)
 - [boire](boire.md)
 - [courir](courir.md)
 - [dire](dire.md)
@@ -15,6 +16,7 @@
 - [prendre](prendre.md)
 - [recevoir](recevoir.md)
 - [savoir](savoir.md)
+- [s'endormir](sendormir.md)
 - [vendre](vendre.md)
 - [venir](venir.md)
 - [vouloir](vouloir.md)

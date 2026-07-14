@@ -2,7 +2,7 @@
 
 ## French
 
-noir
+turquoise
 
 ## Part of Speech
 
@@ -10,30 +10,33 @@ Adjective
 
 ## Ukrainian
 
-чорний
+бірюзовий
 
 ## English
 
-black
+turquoise
 
 # Forms *(if applicable)*
 
 ## Masculine
 
-noir
+turquoise
 
 ## Feminine
 
-noire
+turquoise *(invariable — noun-derived color, like marron)*
 
 ---
 
 # Examples
 
-- Est-ce qu'ils sont noirs?
-- Bip et Zaza (blanc/vert) — la mère de Zaza (vert/bleu).
-- le noir *(used as a masculine noun naming the color)*
-- Un pantalon __________. (noir) *(color-agreement exercise: un pantalon noir)*
+- turquoise *(listed in the color chart)*
+
+---
+
+# Notes
+
+Also a noun naming the gemstone (une turquoise); as a color adjective it is invariable in both gender and number.
 
 ---
 
@@ -45,5 +48,4 @@ noire
 
 # Source Lessons
 
-- [lesson_00009](../../lessons/lesson_00009.md)
 - [lesson_00019](../../lessons/lesson_00019.md)

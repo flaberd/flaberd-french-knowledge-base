@@ -26,13 +26,15 @@ The reflexive pronoun always agrees with the subject, and the verb itself still 
 ## Related grammar
 
 - [grammar/first-group-verbs-present.md](first-group-verbs-present.md)
+- [grammar/second-group-verbs-present.md](second-group-verbs-present.md)
 - [grammar/personal-pronouns.md](personal-pronouns.md)
 
 ## Notes
 
-- Individual reflexive verb entries are filed under [vocabulary/verbs/group-1/index.md](../vocabulary/verbs/group-1/index.md), since their underlying verb group is determined by the infinitive ending (e.g. se laver, s'habiller, s'appeler are all -er verbs).
+- Individual reflexive verb entries are filed under the vocabulary group matching their underlying infinitive ending: [vocabulary/verbs/group-1/index.md](../vocabulary/verbs/group-1/index.md) for -er verbs (se laver, s'habiller, s'appeler…), [vocabulary/verbs/group-2/index.md](../vocabulary/verbs/group-2/index.md) for regular -ir verbs (se réunir, se réjouir, s'épanouir…), and [vocabulary/verbs/group-3/index.md](../vocabulary/verbs/group-3/index.md) for irregular verbs (s'endormir, built on the irregular *dormir*).
 
 ## Source Lessons
 
 - [lesson_00013](../lessons/lesson_00013.md)
 - [lesson_00014](../lessons/lesson_00014.md)
+- [lesson_00019](../lessons/lesson_00019.md)

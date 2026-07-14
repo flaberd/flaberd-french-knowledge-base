@@ -2,7 +2,7 @@
 
 ## French
 
-noir
+rose
 
 ## Part of Speech
 
@@ -10,30 +10,33 @@ Adjective
 
 ## Ukrainian
 
-чорний
+рожевий
 
 ## English
 
-black
+pink
 
 # Forms *(if applicable)*
 
 ## Masculine
 
-noir
+rose
 
 ## Feminine
 
-noire
+rose *(same form — regular -e ending, like rouge/jaune)*
 
 ---
 
 # Examples
 
-- Est-ce qu'ils sont noirs?
-- Bip et Zaza (blanc/vert) — la mère de Zaza (vert/bleu).
-- le noir *(used as a masculine noun naming the color)*
-- Un pantalon __________. (noir) *(color-agreement exercise: un pantalon noir)*
+- Des lunettes __________. (rose) *(color-agreement exercise: des lunettes roses)*
+
+---
+
+# Notes
+
+Also a noun naming the flower (une rose); here used only as a color adjective.
 
 ---
 
@@ -45,5 +48,4 @@ noire
 
 # Source Lessons
 
-- [lesson_00009](../../lessons/lesson_00009.md)
 - [lesson_00019](../../lessons/lesson_00019.md)

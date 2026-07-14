@@ -2,7 +2,7 @@
 
 ## French
 
-noir
+gris
 
 ## Part of Speech
 
@@ -10,30 +10,27 @@ Adjective
 
 ## Ukrainian
 
-чорний
+сірий
 
 ## English
 
-black
+grey
 
 # Forms *(if applicable)*
 
 ## Masculine
 
-noir
+gris
 
 ## Feminine
 
-noire
+grise
 
 ---
 
 # Examples
 
-- Est-ce qu'ils sont noirs?
-- Bip et Zaza (blanc/vert) — la mère de Zaza (vert/bleu).
-- le noir *(used as a masculine noun naming the color)*
-- Un pantalon __________. (noir) *(color-agreement exercise: un pantalon noir)*
+- Une voiture __________. (gris) *(color-agreement exercise: une voiture grise)*
 
 ---
 
@@ -45,5 +42,4 @@ noire
 
 # Source Lessons
 
-- [lesson_00009](../../lessons/lesson_00009.md)
 - [lesson_00019](../../lessons/lesson_00019.md)

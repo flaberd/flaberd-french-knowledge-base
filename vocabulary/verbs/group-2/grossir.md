@@ -24,12 +24,26 @@ Group 2 (regular -ir)
 
 ---
 
+# Conjugation *(if applicable)*
+
+Present tense: je grossis, tu grossis, il/elle/on grossit, nous grossissons, vous grossissez, ils/elles grossissent. See [grammar/second-group-verbs-present.md](../../../grammar/second-group-verbs-present.md).
+
+---
+
+# Examples
+
+- Tu grossis rapidement. Ils grossissent vite quand ils mangent trop.
+- Gros(se) → grossir *(astuce: verb formed from an adjective, expressing a transformation)*
+
+---
+
 # Notes
 
-Listed in the source only as a classification example of the 2e groupe (regular -ir verbs); its conjugation has not yet been taught.
+Its present-tense conjugation is now taught (see [lesson_00019](../../../lessons/lesson_00019.md)).
 
 ---
 
 # Source Lessons
 
 - [lesson_00010](../../../lessons/lesson_00010.md)
+- [lesson_00019](../../../lessons/lesson_00019.md)

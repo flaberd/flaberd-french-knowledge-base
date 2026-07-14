@@ -2,7 +2,7 @@
 
 ## French
 
-noir
+lilas
 
 ## Part of Speech
 
@@ -10,30 +10,33 @@ Adjective
 
 ## Ukrainian
 
-чорний
+бузковий
 
 ## English
 
-black
+lilac
 
 # Forms *(if applicable)*
 
 ## Masculine
 
-noir
+lilas
 
 ## Feminine
 
-noire
+lilas *(invariable — noun-derived color, like marron)*
 
 ---
 
 # Examples
 
-- Est-ce qu'ils sont noirs?
-- Bip et Zaza (blanc/vert) — la mère de Zaza (vert/bleu).
-- le noir *(used as a masculine noun naming the color)*
-- Un pantalon __________. (noir) *(color-agreement exercise: un pantalon noir)*
+- lilas *(listed in the color chart)*
+
+---
+
+# Notes
+
+Also a noun naming the lilac flower/shrub (le lilas); as a color adjective it is invariable in both gender and number, unlike most color adjectives.
 
 ---
 
@@ -45,5 +48,4 @@ noire
 
 # Source Lessons
 
-- [lesson_00009](../../lessons/lesson_00009.md)
 - [lesson_00019](../../lessons/lesson_00019.md)

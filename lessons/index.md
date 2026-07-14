@@ -18,3 +18,5 @@
 - [lesson_00016](lesson_00016.md) — Leçon 17 : Une tour, un pont, des bateaux — la tour, le pont, les bateaux (2025-08-23)
 - [lesson_00017](lesson_00017.md) — Leçon 18 : L'adjectif possessif + les démonstratifs (2025-09-03)
 - [lesson_00018](lesson_00018.md) — Leçon 19 : EN FRANCE, À PARIS / AU JAPON, À TOKYO (2025-09-10)
+- [lesson_00019](lesson_00019.md) — Leçon 20 : 2e groupe (verbe) + couleurs (2025-09-13)
+- [lesson_00020](lesson_00020.md) — Leçon 21 : 3e groupe avoir 1/2 (2025-09-24)

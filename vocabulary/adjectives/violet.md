@@ -2,7 +2,7 @@
 
 ## French
 
-noir
+violet
 
 ## Part of Speech
 
@@ -10,40 +10,37 @@ Adjective
 
 ## Ukrainian
 
-чорний
+фіолетовий
 
 ## English
 
-black
+purple
 
 # Forms *(if applicable)*
 
 ## Masculine
 
-noir
+violet
 
 ## Feminine
 
-noire
+violette
 
 ---
 
 # Examples
 
-- Est-ce qu'ils sont noirs?
-- Bip et Zaza (blanc/vert) — la mère de Zaza (vert/bleu).
-- le noir *(used as a masculine noun naming the color)*
-- Un pantalon __________. (noir) *(color-agreement exercise: un pantalon noir)*
+- violet *(listed in the color chart)*
 
 ---
 
 # Related Grammar *(if applicable)*
 
 - [grammar/color-agreement.md](../../grammar/color-agreement.md)
+- [grammar/adjective-agreement-feminine.md](../../grammar/adjective-agreement-feminine.md) (-et → -ette pattern)
 
 ---
 
 # Source Lessons
 
-- [lesson_00009](../../lessons/lesson_00009.md)
 - [lesson_00019](../../lessons/lesson_00019.md)

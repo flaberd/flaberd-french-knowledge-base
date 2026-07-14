@@ -29,6 +29,13 @@ The demonstrative agrees with the noun it accompanies:
 
 - **ces** + vowel-initial noun → liaison in [z]: *ces_arbres*, *ces_hommes*.
 
+## Common mistakes (corrected from a graded exercise)
+
+- ~~ce chanson~~ → **cette chanson** *(chanson is feminine — "ce" is only for masculine nouns)*
+- ~~ce tableaux~~ → **ces tableaux** *(plural noun needs "ces", not singular "ce")*
+- ~~cet écharpe~~ → **cette écharpe** *(écharpe is feminine — "cet" is reserved for masculine nouns before a vowel/mute h, not feminine ones)*
+- ~~cette verre~~ → **ce verre** *(verre is masculine)*
+
 ## Related grammar
 
 - [grammar/possessive-adjectives.md](possessive-adjectives.md)
@@ -38,3 +45,4 @@ The demonstrative agrees with the noun it accompanies:
 ## Source Lessons
 
 - [lesson_00017](../lessons/lesson_00017.md)
+- [lesson_00020](../lessons/lesson_00020.md)
