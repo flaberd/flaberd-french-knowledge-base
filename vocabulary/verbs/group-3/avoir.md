@@ -41,6 +41,8 @@ Pronunciation (liaison): On_a [no marked liaison]; Nous_avons [z]; Vous_avez [z]
 
 Negative form: Je n'ai pas, tu n'as pas, il/elle/on n'a pas, nous n'avons pas, vous n'avez pas, ils/elles n'ont pas. See [grammar/negation.md](../../../grammar/negation.md).
 
+With *avoir* at the negative, indefinite articles (un/une/des) become "de": Il a un chapeau → Il n'a pas de chapeau. Definite articles (le/la/les/l') are unchanged: Il a la télévision → Il n'a pas la télévision. See [grammar/negation.md](../../../grammar/negation.md).
+
 ---
 
 # Fixed Expressions *(if applicable)*
@@ -53,6 +55,9 @@ Negative form: Je n'ai pas, tu n'as pas, il/elle/on n'a pas, nous n'avons pas, v
 - avoir peur (de)
 - avoir sommeil
 - avoir raison / avoir tort
+- avoir l'intention (de)
+- avoir honte (de)
+- avoir l'air
 
 ---
 
@@ -67,7 +72,7 @@ Negative form: Je n'ai pas, tu n'as pas, il/elle/on n'a pas, nous n'avons pas, v
 
 # Notes
 
-Previously flagged in [lesson_00016](../../../lessons/lesson_00016.md) as a 3e groupe verb "not yet taught"; its present-tense conjugation, negative form, and the "avoir + âge" idiom are now taught in [lesson_00020](../../../lessons/lesson_00020.md).
+Previously flagged in [lesson_00016](../../../lessons/lesson_00016.md) as a 3e groupe verb "not yet taught"; its present-tense conjugation, negative form, and the "avoir + âge" idiom are now taught in [lesson_00020](../../../lessons/lesson_00020.md). Reinforced with further practice in [lesson_00022](../../../lessons/lesson_00022.md). The negative conjugation table and the pas de/pas le rule, plus the expressions avoir l'intention (de), avoir honte (de), and avoir l'air, are added in [lesson_00023](../../../lessons/lesson_00023.md).
 
 ---
 
@@ -84,3 +89,5 @@ Previously flagged in [lesson_00016](../../../lessons/lesson_00016.md) as a 3e g
 
 - [lesson_00016](../../../lessons/lesson_00016.md)
 - [lesson_00020](../../../lessons/lesson_00020.md)
+- [lesson_00022](../../../lessons/lesson_00022.md)
+- [lesson_00023](../../../lessons/lesson_00023.md)

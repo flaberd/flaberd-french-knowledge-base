@@ -41,6 +41,18 @@ This shift does **not** happen when the adjective follows the noun as usual:
 
 - J'ai **des** livres intéressants.
 
+## "C'est un(e)" / "Ce sont de" + adjectif + nom
+
+The "C'est..." shorthand from above also follows the des→de shift when the noun is plural:
+
+- Cette fille est jeune. → **C'est une** jeune fille. *(singular: c'est un/une)*
+- Ces artistes sont nouveaux. → **Ce sont de** nouveaux artistes. *(plural: ce sont de, not "c'est des")*
+
+**Common mistakes (from a graded exercise, [lesson_00022](../lessons/lesson_00022.md)):**
+
+- ~~Ces gâteaux sont très gros. Oui, c'est des très gros gâteux.~~ → **Ce sont de** très gros **gâteaux**. *(plural subject needs "ce sont", not "c'est"; "des" still shifts to "de" before the preposed adjective even here)*
+- ~~Cet appartement est nouveau. Oui, c'est un nouveau appartment.~~ → C'est un **nouvel** appartement. *("appartement" starts with a vowel, so "nouveau" must elide to "nouvel")*
+
 ## Related grammar
 
 - [grammar/adjective-agreement-feminine.md](adjective-agreement-feminine.md)
@@ -51,3 +63,4 @@ This shift does **not** happen when the adjective follows the noun as usual:
 ## Source Lessons
 
 - [lesson_00020](../lessons/lesson_00020.md)
+- [lesson_00022](../lessons/lesson_00022.md)

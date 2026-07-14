@@ -20,3 +20,6 @@
 - [lesson_00018](lesson_00018.md) — Leçon 19 : EN FRANCE, À PARIS / AU JAPON, À TOKYO (2025-09-10)
 - [lesson_00019](lesson_00019.md) — Leçon 20 : 2e groupe (verbe) + couleurs (2025-09-13)
 - [lesson_00020](lesson_00020.md) — Leçon 21 : 3e groupe avoir 1/2 (2025-09-24)
+- [lesson_00021](lesson_00021.md) — Leçon 22 (labeled) : RECAP (2025-09-17, dated before lesson_00020 — see numbering note in the file)
+- [lesson_00022](lesson_00022.md) — Leçon 22 : 3e groupe avoir 2/2 (2025-09-27)
+- [lesson_00023](lesson_00023.md) — Leçon 22 (labeled) / Leçon 23 (filename) : 3e groupe avoir 3/3 (2025-10-03)
