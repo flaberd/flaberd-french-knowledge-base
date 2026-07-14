@@ -46,3 +46,4 @@ The demonstrative agrees with the noun it accompanies:
 
 - [lesson_00017](../lessons/lesson_00017.md)
 - [lesson_00020](../lessons/lesson_00020.md)
+- [lesson_00024](../lessons/lesson_00024.md)

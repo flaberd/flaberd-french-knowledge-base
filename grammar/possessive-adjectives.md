@@ -46,3 +46,4 @@ The possessive varies with the person of the possessor, and with the gender/numb
 ## Source Lessons
 
 - [lesson_00017](../lessons/lesson_00017.md)
+- [lesson_00024](../lessons/lesson_00024.md)

@@ -60,3 +60,4 @@ Note from the source, on why the same kind of object can take either article wit
 - [lesson_00009](../lessons/lesson_00009.md)
 - [lesson_00020](../lessons/lesson_00020.md)
 - [lesson_00023](../lessons/lesson_00023.md)
+- [lesson_00024](../lessons/lesson_00024.md)

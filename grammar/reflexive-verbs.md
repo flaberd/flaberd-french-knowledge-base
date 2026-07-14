@@ -38,3 +38,5 @@ The reflexive pronoun always agrees with the subject, and the verb itself still 
 - [lesson_00013](../lessons/lesson_00013.md)
 - [lesson_00014](../lessons/lesson_00014.md)
 - [lesson_00019](../lessons/lesson_00019.md)
+- [lesson_00024](../lessons/lesson_00024.md)
+- [lesson_00026](../lessons/lesson_00026.md)

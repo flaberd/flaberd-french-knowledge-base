@@ -38,3 +38,5 @@ A number of common -ir verbs (dormir, partir, sortir, sentir, servir, venir, cou
 ## Source Lessons
 
 - [lesson_00019](../lessons/lesson_00019.md)
+- [lesson_00024](../lessons/lesson_00024.md)
+- [lesson_00026](../lessons/lesson_00026.md)

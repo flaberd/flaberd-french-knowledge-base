@@ -52,3 +52,4 @@ When an adjective ending in a normally-silent consonant is followed by a vowel-i
 - [lesson_00005](../lessons/lesson_00005.md)
 - [lesson_00006](../lessons/lesson_00006.md)
 - [lesson_00007](../lessons/lesson_00007.md)
+- [lesson_00024](../lessons/lesson_00024.md)

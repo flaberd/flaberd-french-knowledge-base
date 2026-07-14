@@ -69,3 +69,4 @@ See [grammar/article-contractions.md](article-contractions.md) for à + le/les.
 ## Source Lessons
 
 - [lesson_00020](../lessons/lesson_00020.md)
+- [lesson_00024](../lessons/lesson_00024.md)

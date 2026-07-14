@@ -86,6 +86,7 @@
 - [populaire](populaire.md)
 - [précis](précis.md)
 - [pressé](pressé.md)
+- [prochain](prochain.md)
 - [public](public.md)
 - [rapide](rapide.md)
 - [réel](réel.md)

@@ -26,3 +26,5 @@ French verbs are classified into three conjugation groups.
 - [lesson_00010](../lessons/lesson_00010.md)
 - [lesson_00019](../lessons/lesson_00019.md)
 - [lesson_00020](../lessons/lesson_00020.md)
+- [lesson_00025](../lessons/lesson_00025.md)
+- [lesson_00026](../lessons/lesson_00026.md)

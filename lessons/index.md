@@ -23,3 +23,6 @@
 - [lesson_00021](lesson_00021.md) — Leçon 22 (labeled) : RECAP (2025-09-17, dated before lesson_00020 — see numbering note in the file)
 - [lesson_00022](lesson_00022.md) — Leçon 22 : 3e groupe avoir 2/2 (2025-09-27)
 - [lesson_00023](lesson_00023.md) — Leçon 22 (labeled) / Leçon 23 (filename) : 3e groupe avoir 3/3 (2025-10-03)
+- [lesson_00024](lesson_00024.md) — Leçon 24 : TOTAL RECAP (2025-10-08)
+- [lesson_00025](lesson_00025.md) — Leçon 25 : aller à (2025-10-10)
+- [lesson_00026](lesson_00026.md) — Leçon 26 : prendre groupe (2025-10-15)
