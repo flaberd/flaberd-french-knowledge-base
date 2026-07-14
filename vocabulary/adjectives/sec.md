@@ -32,6 +32,7 @@ sèche
 
 - sec → sèche.
 - une pomme et une ananas — (sec) → Elles sont sèches.
+- En été il fait chaud et sec.
 
 ---
 
@@ -45,3 +46,4 @@ Irregular feminine form. See [grammar/adjective-agreement-feminine.md](../../gra
 
 - [lesson_00006](../../lessons/lesson_00006.md)
 - [lesson_00008](../../lessons/lesson_00008.md)
+- [lesson_00028](../../lessons/lesson_00028.md)

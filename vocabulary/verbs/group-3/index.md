@@ -14,6 +14,7 @@
 - [faire](faire.md)
 - [lire](lire.md)
 - [offrir](offrir.md)
+- [pleuvoir](pleuvoir.md)
 - [pouvoir](pouvoir.md)
 - [prendre](prendre.md)
 - [recevoir](recevoir.md)

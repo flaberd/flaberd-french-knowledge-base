@@ -58,6 +58,7 @@ With *avoir* at the negative, indefinite articles (un/une/des) become "de": Il a
 - avoir l'intention (de)
 - avoir honte (de)
 - avoir l'air
+- avoir lieu : to take place. *Le festival de Cannes a lieu au printemps.* *(flagged with heavy emphasis in the [lesson_00028](../../../lessons/lesson_00028.md) source, without further explanation given — likely a reminder to come back to it)*
 
 ---
 
@@ -72,7 +73,7 @@ With *avoir* at the negative, indefinite articles (un/une/des) become "de": Il a
 
 # Notes
 
-Previously flagged in [lesson_00016](../../../lessons/lesson_00016.md) as a 3e groupe verb "not yet taught"; its present-tense conjugation, negative form, and the "avoir + âge" idiom are now taught in [lesson_00020](../../../lessons/lesson_00020.md). Reinforced with further practice in [lesson_00022](../../../lessons/lesson_00022.md). The negative conjugation table and the pas de/pas le rule, plus the expressions avoir l'intention (de), avoir honte (de), and avoir l'air, are added in [lesson_00023](../../../lessons/lesson_00023.md).
+Previously flagged in [lesson_00016](../../../lessons/lesson_00016.md) as a 3e groupe verb "not yet taught"; its present-tense conjugation, negative form, and the "avoir + âge" idiom are now taught in [lesson_00020](../../../lessons/lesson_00020.md). Reinforced with further practice in [lesson_00022](../../../lessons/lesson_00022.md). The negative conjugation table and the pas de/pas le rule, plus the expressions avoir l'intention (de), avoir honte (de), and avoir l'air, are added in [lesson_00023](../../../lessons/lesson_00023.md). The expression "avoir lieu" appears (already used, unexplained, in a [lesson_00027](../../../lessons/lesson_00027.md) exercise sentence) and is called out prominently in [lesson_00028](../../../lessons/lesson_00028.md).
 
 ---
 

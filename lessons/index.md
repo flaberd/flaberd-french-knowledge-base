@@ -26,3 +26,5 @@
 - [lesson_00024](lesson_00024.md) — Leçon 24 : TOTAL RECAP (2025-10-08)
 - [lesson_00025](lesson_00025.md) — Leçon 25 : aller à (2025-10-10)
 - [lesson_00026](lesson_00026.md) — Leçon 26 : prendre groupe (2025-10-15)
+- [lesson_00027](lesson_00027.md) — Leçon 29 : FAIRE + MÉTÉO + SAISONS (2025-10-29, teacher numbering jumps from 26 to 29 — lessons 27–28 are not present in the source materials)
+- [lesson_00028](lesson_00028.md) — Leçon 30 : FAIRE + MÉTÉO + SAISONS (recap) (2025-11-01)
