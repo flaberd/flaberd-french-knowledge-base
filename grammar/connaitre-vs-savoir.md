@@ -57,6 +57,11 @@ Example: *Je ne sais pas ce que ce mot veut dire.*
 | Skills / know-how | ❌ | ✅ (*Je sais nager.*) |
 | Clauses with "que"/"si" | ❌ | ✅ |
 
+## Mnemonic
+
+> **Connaître + Noms** (connaître + nouns — people, places, things)
+> **Savoir + Que/si/où / verbe** (savoir + a clause or an infinitive)
+
 ## Related grammar
 
 - [grammar/verb-groups.md](verb-groups.md)
@@ -69,3 +74,4 @@ Example: *Je ne sais pas ce que ce mot veut dire.*
 ## Source Lessons
 
 - [lesson_00031](../lessons/lesson_00031.md)
+- [lesson_00032](../lessons/lesson_00032.md)

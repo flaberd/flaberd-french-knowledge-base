@@ -48,6 +48,16 @@ The corresponding examples with "aimer" (no preposition needed, just the article
 - J'aime le Brésil / le Pérou / le Chili → j'habite au Brésil / au Pérou / au Chili.
 - J'aime les États-Unis → j'habite aux États-Unis.
 
+## Coming from: venir de + country
+
+The reverse direction ("to come from") uses **de** instead of à/en/au/aux, contracting the same way as the other de + article cases (de + le → du, de + les → des; no contraction with la/l'):
+
+- **du** + masculine country: *Je viens du Canada.*
+- **d'** + country starting with a vowel: *Tu viens d'Inde. Il vient d'Ukraine.*
+- **des** + plural country: *Ils viennent des États-Unis.*
+
+See [vocabulary/verbs/group-3/venir.md](../vocabulary/verbs/group-3/venir.md).
+
 ## Gender of country names
 
 The majority of country names ending in **-e** are feminine in French: la France, la Chine, l'Italie, l'Allemagne.
@@ -64,3 +74,4 @@ The majority of country names ending in **-e** are feminine in French: la France
 
 - [lesson_00018](../lessons/lesson_00018.md)
 - [lesson_00025](../lessons/lesson_00025.md)
+- [lesson_00032](../lessons/lesson_00032.md)

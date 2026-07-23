@@ -2,6 +2,8 @@
 
 - [beaucoup](beaucoup.md)
 - [de temps en temps](de-temps-en-temps.md)
+- [encore](encore.md)
+- [enfin](enfin.md)
 - [ensuite](ensuite.md)
 - [environ](environ.md)
 - [jamais](jamais.md)

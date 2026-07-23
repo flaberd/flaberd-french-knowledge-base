@@ -31,3 +31,6 @@
 - [lesson_00029](lesson_00029.md) — Leçon 31 : Les nombres (tous) (2025-11-05)
 - [lesson_00030](lesson_00030.md) — Leçon 32 : Les nombres (tous) (recap) (2025-11-07)
 - [lesson_00031](lesson_00031.md) — Leçon 33 : CONNAÎTRE x SAVOIR (2025-11-22)
+- [lesson_00032](lesson_00032.md) — Leçon 34 : CONNAÎTRE x SAVOIR (recap) + Dire, Sortir, Venir, Voir, Croire + COD/COI (2025-11-26)
+- [lesson_00033](lesson_00033.md) — Leçon 35 : COD x COI + prep Stromae "Alors on Danse" (2025-11-30)
+- [lesson_00034](lesson_00034.md) — Leçon 36 : Alors on Danse (Stromae), recap COD/COI (2025-12-03)

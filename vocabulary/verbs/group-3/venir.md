@@ -24,18 +24,42 @@ Group 3 (irregular)
 
 ---
 
+# Conjugation *(if applicable)*
+
+Present tense (source labels it "très irrégulier"):
+
+| Pronoun | Form |
+|---|---|
+| Je | viens |
+| Tu | viens |
+| Il / Elle / On | vient |
+| Nous | venons |
+| Vous | venez |
+| Ils / Elles | viennent |
+
+---
+
 # Examples
 
 - venir → Groupe : ______ *(exercise: identify the group; left blank in source)*
+- Je viens **du** Canada. Tu viens **d'**Inde. Il vient **d'**Ukraine. Ils viennent **des** États-Unis.
 
 ---
 
 # Notes
 
-Listed in the source both as a classification example of the 3e groupe and in the "which group?" exercise; its conjugation has not yet been taught.
+Listed in the source both as a classification example of the 3e groupe ([lesson_00010](../../../lessons/lesson_00010.md)) and in the "which group?" exercise, with its conjugation "not yet taught". The full present-tense conjugation ("très irrégulier") is now taught in [lesson_00032](../../../lessons/lesson_00032.md), paired with "venir de" + country as the reverse of "aller à" + country — see [grammar/prepositions-of-place.md](../../../grammar/prepositions-of-place.md).
+
+---
+
+# Related Grammar *(if applicable)*
+
+- [grammar/verb-groups.md](../../../grammar/verb-groups.md)
+- [grammar/prepositions-of-place.md](../../../grammar/prepositions-of-place.md)
 
 ---
 
 # Source Lessons
 
 - [lesson_00010](../../../lessons/lesson_00010.md)
+- [lesson_00032](../../../lessons/lesson_00032.md)
