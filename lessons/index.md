@@ -28,3 +28,6 @@
 - [lesson_00026](lesson_00026.md) — Leçon 26 : prendre groupe (2025-10-15)
 - [lesson_00027](lesson_00027.md) — Leçon 29 : FAIRE + MÉTÉO + SAISONS (2025-10-29, teacher numbering jumps from 26 to 29 — lessons 27–28 are not present in the source materials)
 - [lesson_00028](lesson_00028.md) — Leçon 30 : FAIRE + MÉTÉO + SAISONS (recap) (2025-11-01)
+- [lesson_00029](lesson_00029.md) — Leçon 31 : Les nombres (tous) (2025-11-05)
+- [lesson_00030](lesson_00030.md) — Leçon 32 : Les nombres (tous) (recap) (2025-11-07)
+- [lesson_00031](lesson_00031.md) — Leçon 33 : CONNAÎTRE x SAVOIR (2025-11-22)

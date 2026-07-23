@@ -18,6 +18,7 @@
 
 - The source's slide title states the range as "0 à 50", but the visible table began at 1 with no "0 / zéro" cell shown; "zéro" is recorded in the vocabulary index on the assumption implied by the title, flagged as not directly confirmed in the source. See [lesson_00013](../lessons/lesson_00013.md) Notes.
 - Individual number entries: [vocabulary/numbers/index.md](../vocabulary/numbers/index.md).
+- For 80 and above (quatre-vingts, cents...), see [grammar/numbers-80-and-above.md](numbers-80-and-above.md).
 
 ## Source Lessons
 
