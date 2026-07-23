@@ -18,7 +18,12 @@ Weather in French is usually described with the impersonal subject **il**, not *
 
 Degrees are given with **il fait** + number + **degrés**: *Il fait vingt-cinq degrés.*
 
+## Related grammar
+
+- [grammar/partitive-articles.md](partitive-articles.md) — the companion "il y a + du/de la/des + phénomène" construction (il y a du vent, de la pluie...)
+
 ## Source Lessons
 
 - [lesson_00027](../lessons/lesson_00027.md)
 - [lesson_00028](../lessons/lesson_00028.md)
+- [lesson_00037](../lessons/lesson_00037.md)

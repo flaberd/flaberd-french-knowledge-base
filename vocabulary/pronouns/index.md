@@ -13,6 +13,8 @@
 - [me](me.md)
 - [nous](nous.md)
 - [on](on.md)
+- [personne](personne.md)
+- [rien](rien.md)
 - [te](te.md)
 - [tu](tu.md)
 - [vous](vous.md)

@@ -34,3 +34,7 @@
 - [lesson_00032](lesson_00032.md) — Leçon 34 : CONNAÎTRE x SAVOIR (recap) + Dire, Sortir, Venir, Voir, Croire + COD/COI (2025-11-26)
 - [lesson_00033](lesson_00033.md) — Leçon 35 : COD x COI + prep Stromae "Alors on Danse" (2025-11-30)
 - [lesson_00034](lesson_00034.md) — Leçon 36 : Alors on Danse (Stromae), recap COD/COI (2025-12-03)
+- [lesson_00035](lesson_00035.md) — Leçon 38 : Négation (suite) (2025-12-17, teacher numbering skips Leçon 37 — not present in the source materials)
+- [lesson_00036](lesson_00036.md) — Leçon 39 : Négation (recap) + Vouloir + Le futur proche (2025-12-27)
+- [lesson_00037](lesson_00037.md) — Leçon 40 (1/2) : Les articles partitifs + Boire, Mettre et Vouloir (2026-01-04)
+- [lesson_00038](lesson_00038.md) — Leçon 40 (2/2) : Partitif 2 (2026-01-17, teacher numbering repeats "Leçon 40" — see lesson_00037 for the collision note)
