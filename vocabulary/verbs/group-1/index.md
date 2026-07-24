@@ -98,4 +98,5 @@
 - [travailler](travailler.md)
 - [trouver](trouver.md)
 - [visiter](visiter.md)
+- [voler](voler.md)
 - [voyager](voyager.md)

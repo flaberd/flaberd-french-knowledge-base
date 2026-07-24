@@ -32,10 +32,23 @@ A **COD** answers the question **"qui ?"** (who) or **"quoi ?"** (what) asked di
 
 The COD pronoun goes directly before the conjugated verb (not after, as in English): *Je le mange*, not ~~Je mange le~~.
 
+## Participle agreement in the passé composé
+
+With the auxiliary **avoir**, the past participle normally doesn't change (see [grammar/passe-compose.md](passe-compose.md)) — **except** when a direct object comes **before** the verb. Then the participle agrees with that preceding COD in gender/number, whether it's a relative clause with "que" or a COD pronoun:
+
+- J'ai acheté **une voiture**. *(COD after the verb → no agreement)* → **La voiture que** j'ai achet**ée**. *(COD "la voiture", via "que", comes before "j'ai acheté" → agrees, feminine)*
+- Nous avons acheté **des chaussures**. *(no agreement, COD after)* → **Les chaussures que** j'ai achet**ées**. *(agrees, feminine plural)*
+- J'ai fait une tâche. → **La tâche que** j'ai fai**te**. *(faire → fait, agrees feminine: faite)*
+- J'ai découvert Paris. → **La ville que** j'ai découver**te**. *(découvert → découverte)*
+- Il **nous** a salu**és**. *(the COD pronoun "nous", placed before the verb as pronouns always are, triggers agreement)*
+
+This is a distinct rule from the être-subject agreement in [grammar/passe-compose.md](passe-compose.md#participle-agreement-with-être) — that one is about the auxiliary (être vs. avoir); this one is about **COD position**, and only matters for avoir-verbs.
+
 ## Related grammar
 
 - [grammar/indirect-object-pronouns.md](indirect-object-pronouns.md) (COI — contrast the "qui/quoi" test with "à qui/à quoi/de qui/de quoi")
 - [grammar/personal-pronouns.md](personal-pronouns.md)
+- [grammar/passe-compose.md](passe-compose.md)
 
 ## Notes
 
@@ -46,3 +59,4 @@ The COD pronoun goes directly before the conjugated verb (not after, as in Engli
 
 - [lesson_00032](../lessons/lesson_00032.md)
 - [lesson_00033](../lessons/lesson_00033.md)
+- [lesson_00052](../lessons/lesson_00052.md)

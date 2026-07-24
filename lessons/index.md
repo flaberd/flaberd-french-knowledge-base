@@ -49,3 +49,6 @@
 - [lesson_00047](lesson_00047.md) — Leçon 49 : l'Imparfait 2 (2026-04-11, recap + practice)
 - [lesson_00048](lesson_00048.md) — Leçon 50 : l'Imparfait 3 (2026-04-19, graded essay + corrections)
 - [lesson_00049](lesson_00049.md) — Leçon 51 : le Passé Composé 1 (2026-04-25)
+- [lesson_00050](lesson_00050.md) — Leçon 52 : le Passé Composé 2 (2026-05-09, être-verb refinements + agreement)
+- [lesson_00051](lesson_00051.md) — Leçon 53 : le Passé Composé 3 (2026-05-30, mostly review + tongue-twisters)
+- [lesson_00052](lesson_00052.md) — Leçon 54 : le Passé Composé 4 (2026-06-06, preceding-COD agreement + graded text)
