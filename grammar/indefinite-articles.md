@@ -22,6 +22,15 @@ Contrast with the definite article, used for a unique/specific thing or a genera
 - "un" + vowel-initial word → liaison in [n]: *un ami*, *un homme*.
 - "des" + vowel-initial word → liaison in [z]: *des amis*, *des hommes*.
 
+## "des" → "de" before a preposed adjective
+
+When a plural noun is preceded by an adjective (placed **before** the noun, as some adjectives are — see [grammar/adjective-position.md](adjective-position.md)), the plural indefinite article **des** is normally replaced by **de**:
+
+- des gens + bons (adjective before the noun) → **de bons** gens, not ~~des bons gens~~.
+- Similarly: de belles fleurs, de grandes villes.
+
+This is distinct from the "des → de" reduction under negation (see [grammar/negation.md](negation.md)) — here there's no negation, just an adjective directly before the plural noun.
+
 ## Related grammar
 
 - [grammar/definite-articles.md](definite-articles.md)
@@ -32,3 +41,4 @@ Contrast with the definite article, used for a unique/specific thing or a genera
 
 - [lesson_00015](../lessons/lesson_00015.md)
 - [lesson_00016](../lessons/lesson_00016.md)
+- [lesson_00044](../lessons/lesson_00044.md)

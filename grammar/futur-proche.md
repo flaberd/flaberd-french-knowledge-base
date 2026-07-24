@@ -36,6 +36,7 @@ Negation wraps around the conjugated *aller*, not the infinitive — see [gramma
 - [grammar/aller-present.md](aller-present.md)
 - [grammar/negation.md](negation.md)
 - [grammar/verb-groups.md](verb-groups.md)
+- [grammar/passe-recent.md](passe-recent.md) *(the mirror-image "venir de + infinitif" construction for the recent past)*
 
 ## Source Lessons
 

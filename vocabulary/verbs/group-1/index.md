@@ -85,6 +85,7 @@
 - [s'excuser](sexcuser.md)
 - [s'habiller](shabiller.md)
 - [s'occuper](soccuper.md)
+- [sonner](sonner.md)
 - [téléphoner](téléphoner.md)
 - [terminer](terminer.md)
 - [travailler](travailler.md)

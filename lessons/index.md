@@ -43,3 +43,6 @@
 - [lesson_00041](lesson_00041.md) — Leçon 43 : EO (2026-02-07)
 - [lesson_00042](lesson_00042.md) — Leçon 44 (labeled "EO") : Partitif Examen (2026-02-14, graded exam, B-)
 - [lesson_00043](lesson_00043.md) — Leçon 45 : CE A1+ finalisation (2026-02-20)
+- [lesson_00044](lesson_00044.md) — Leçon 46 : EE/EO A1+ finalisation (2026-03-07, graded essay + corrections)
+- [lesson_00045](lesson_00045.md) — Leçon 47 : CO A1+ wrap-up — le passé récent + le comparatif (2026-03-21)
+- [lesson_00046](lesson_00046.md) — Leçon 48 : l'Imparfait — A2, on attaque (2026-04-04, start of A2 level)
