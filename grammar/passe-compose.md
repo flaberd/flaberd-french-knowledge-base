@@ -130,9 +130,12 @@ finir → fin**i**, choisir → chois**i**, réussir → réuss**i**.
 - [grammar/verb-groups.md](verb-groups.md)
 - [grammar/reflexive-verbs.md](reflexive-verbs.md)
 - [grammar/direct-object-pronouns.md](direct-object-pronouns.md) *(the preceding-COD agreement rule for avoir-verbs)*
+- [grammar/negation.md](negation.md#negating-the-passé-composé)
 
 ## Source Lessons
 
 - [lesson_00049](../lessons/lesson_00049.md)
 - [lesson_00050](../lessons/lesson_00050.md)
 - [lesson_00052](../lessons/lesson_00052.md)
+- [lesson_00055](../lessons/lesson_00055.md)
+- [lesson_00056](../lessons/lesson_00056.md)

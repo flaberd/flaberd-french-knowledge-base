@@ -100,6 +100,33 @@ The same two-part patterns apply when negating [le futur proche](futur-proche.md
 - Je **ne vais pas** étudier. Tu **ne vas rien** voir. Il **ne va jamais** partir.
 - Nous **n'allons pas** comprendre. Vous **n'allez plus** dire la vérité. Ils **ne vont rien** prendre.
 
+## Negating the passé composé
+
+Most patterns wrap around the **auxiliary** (avoir/être), not the participle — "ne" before the auxiliary, the second part right after it, then the participle:
+
+> Sujet + **ne** + avoir/être (conjugué) + pas/jamais/rien/plus... + participe passé
+
+- Je **n'ai pas** mangé. Tu **n'as pas** travaillé. Elle **n'est pas** sortie.
+- Nous **ne sommes jamais** partis. Vous **n'avez rien** vu. Ils **ne sont plus** revenus.
+
+**Three exceptions — ne...personne, ne...aucun(e), ne...nulle part — go *after* the participle instead**, unlike pas/jamais/rien/plus which sit between the auxiliary and the participle:
+
+- On **n'a vu personne**. *(not ~~on n'a personne vu~~)*
+- Je **n'ai reçu aucune** lettre.
+- On **n'est allé nulle part**.
+
+### Reflexive verbs
+
+Reflexive verbs always take être (see [grammar/reflexive-verbs.md](reflexive-verbs.md#passé-composé)); the negation wraps around **pronoun + auxiliary** together:
+
+> Sujet + **ne** + pronom réfléchi + être (conjugué) + pas + participe passé
+
+- Ce matin, je **ne me suis pas** levé(e) assez tôt.
+- Tu **ne t'es pas** maquillée ce matin ?
+- Mes parents **ne se sont jamais** disputés.
+
+This mirrors the present-tense reflexive negation pattern (**ne** + pronom réfléchi + verbe + **pas**): "je **ne me lève pas** avant sept heures", "mes parents **ne se disputent pas**" — in both tenses, "ne" comes before the reflexive pronoun, not between the pronoun and the verb/auxiliary.
+
 ## Related grammar
 
 - [grammar/interrogation.md](interrogation.md)
@@ -108,6 +135,8 @@ The same two-part patterns apply when negating [le futur proche](futur-proche.md
 - [grammar/avoir-present.md](avoir-present.md)
 - [grammar/futur-proche.md](futur-proche.md)
 - [grammar/partitive-articles.md](partitive-articles.md)
+- [grammar/passe-compose.md](passe-compose.md)
+- [grammar/reflexive-verbs.md](reflexive-verbs.md)
 
 ## Source Lessons
 
@@ -119,3 +148,5 @@ The same two-part patterns apply when negating [le futur proche](futur-proche.md
 - [lesson_00036](../lessons/lesson_00036.md)
 - [lesson_00039](../lessons/lesson_00039.md)
 - [lesson_00042](../lessons/lesson_00042.md)
+- [lesson_00054](../lessons/lesson_00054.md)
+- [lesson_00055](../lessons/lesson_00055.md)

@@ -47,6 +47,7 @@
 - [savoir](savoir.md)
 - [s'endormir](sendormir.md)
 - [s'en sortir](sen-sortir.md)
+- [se souvenir](se-souvenir.md)
 - [sortir](sortir.md)
 - [souffrir](souffrir.md)
 - [soumettre](soumettre.md)

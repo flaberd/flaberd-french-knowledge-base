@@ -52,3 +52,7 @@
 - [lesson_00050](lesson_00050.md) — Leçon 52 : le Passé Composé 2 (2026-05-09, être-verb refinements + agreement)
 - [lesson_00051](lesson_00051.md) — Leçon 53 : le Passé Composé 3 (2026-05-30, mostly review + tongue-twisters)
 - [lesson_00052](lesson_00052.md) — Leçon 54 : le Passé Composé 4 (2026-06-06, preceding-COD agreement + graded text)
+- [lesson_00053](lesson_00053.md) — Leçon 55 : le Passé Composé 5 (2026-06-27, "ma journée d'hier" oral production)
+- [lesson_00054](lesson_00054.md) — Leçon 56 : le Passé Composé 6 (2026-07-04, négation recap + reflexive negation)
+- [lesson_00055](lesson_00055.md) — Leçon 57 : le Passé Composé 6.1 — négation (2026-07-11, negating the passé composé)
+- [lesson_00056](lesson_00056.md) — Leçon 58 : Examen PC (2026-07-18, graded exam, 95/100 items / 85% displayed)

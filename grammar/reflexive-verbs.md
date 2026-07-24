@@ -41,6 +41,15 @@ Reflexive/pronominal verbs always take **être** as the auxiliary — never avoi
 
 Contrast with the same underlying verb used **non-reflexively** with avoir: *inscrire* — "il **a inscrit** son frère" (avoir, direct object "son frère", no agreement) vs. "elle **s'est inscrite**" (être, reflexive — *s'inscrire*, "to enroll" — participle agrees with the subject "elle"). See [vocabulary/verbs/group-3/inscrire.md](../vocabulary/verbs/group-3/inscrire.md).
 
+## Negation
+
+"Ne" goes before the reflexive pronoun, not between the pronoun and the verb — same rule in both tenses:
+
+- **Présent**: ne + pronom réfléchi + verbe + pas — "je **ne me lève pas** avant sept heures", "mes parents **ne se disputent pas**".
+- **Passé composé**: ne + pronom réfléchi + être + pas + participe passé — "je **ne me suis pas** levé(e)", "mes parents **ne se sont jamais** disputés".
+
+See [grammar/negation.md](negation.md#negating-the-passé-composé) for the full pattern and its exceptions.
+
 ## Related grammar
 
 - [grammar/first-group-verbs-present.md](first-group-verbs-present.md)
@@ -60,3 +69,5 @@ Contrast with the same underlying verb used **non-reflexively** with avoir: *ins
 - [lesson_00024](../lessons/lesson_00024.md)
 - [lesson_00026](../lessons/lesson_00026.md)
 - [lesson_00050](../lessons/lesson_00050.md)
+- [lesson_00054](../lessons/lesson_00054.md)
+- [lesson_00055](../lessons/lesson_00055.md)

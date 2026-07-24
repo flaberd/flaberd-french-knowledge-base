@@ -34,13 +34,14 @@ The COD pronoun goes directly before the conjugated verb (not after, as in Engli
 
 ## Participle agreement in the passé composé
 
-With the auxiliary **avoir**, the past participle normally doesn't change (see [grammar/passe-compose.md](passe-compose.md)) — **except** when a direct object comes **before** the verb. Then the participle agrees with that preceding COD in gender/number, whether it's a relative clause with "que" or a COD pronoun:
+Formal name given in the source: **« L'accord du participe passé employé avec l'auxiliaire "avoir" »**. With the auxiliary **avoir**, the past participle normally doesn't change (see [grammar/passe-compose.md](passe-compose.md)) — **except** when a direct object comes **before** the verb. Then the participle agrees with that preceding COD in gender/number, whether it's a relative clause with "que" or a COD pronoun:
 
 - J'ai acheté **une voiture**. *(COD after the verb → no agreement)* → **La voiture que** j'ai achet**ée**. *(COD "la voiture", via "que", comes before "j'ai acheté" → agrees, feminine)*
 - Nous avons acheté **des chaussures**. *(no agreement, COD after)* → **Les chaussures que** j'ai achet**ées**. *(agrees, feminine plural)*
 - J'ai fait une tâche. → **La tâche que** j'ai fai**te**. *(faire → fait, agrees feminine: faite)*
 - J'ai découvert Paris. → **La ville que** j'ai découver**te**. *(découvert → découverte)*
 - Il **nous** a salu**és**. *(the COD pronoun "nous", placed before the verb as pronouns always are, triggers agreement)*
+- Ces fleurs, je **les** ai aim**ées**. *(the COD pronoun "les", replacing "ces fleurs" (fem. plural), triggers agreement)*
 
 This is a distinct rule from the être-subject agreement in [grammar/passe-compose.md](passe-compose.md#participle-agreement-with-être) — that one is about the auxiliary (être vs. avoir); this one is about **COD position**, and only matters for avoir-verbs.
 
@@ -60,3 +61,4 @@ This is a distinct rule from the être-subject agreement in [grammar/passe-compo
 - [lesson_00032](../lessons/lesson_00032.md)
 - [lesson_00033](../lessons/lesson_00033.md)
 - [lesson_00052](../lessons/lesson_00052.md)
+- [lesson_00056](../lessons/lesson_00056.md)
