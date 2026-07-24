@@ -22,12 +22,22 @@ Contrast with the indefinite article, used for a non-unique thing/category or a 
 - un pont → **le Pont-Neuf**
 - des bateaux → **les bateaux-mouches**
 
+## With verbs of opinion/preference
+
+With **aimer, préférer, détester, adorer** + noun, French always uses the **definite** article, even where English would use no article at all — never the partitive:
+
+- J'aime **le** chocolat. Elle préfère **la** pizza. Il déteste **les** légumes. Nous adorons **l'**eau *(eau is feminine)*.
+
+This is the generality use above (the noun names a category as a whole, e.g. "chocolate in general"), called out explicitly as a rule since it's the point where learners are tempted to reach for the partitive instead. See [grammar/partitive-articles.md](partitive-articles.md#5-when-not-to-use-partitive-articles).
+
 ## Related grammar
 
 - [grammar/indefinite-articles.md](indefinite-articles.md)
 - [grammar/gender-of-nouns.md](gender-of-nouns.md)
 - [grammar/noun-gender-endings.md](noun-gender-endings.md)
+- [grammar/partitive-articles.md](partitive-articles.md)
 
 ## Source Lessons
 
 - [lesson_00016](../lessons/lesson_00016.md)
+- [lesson_00039](../lessons/lesson_00039.md)

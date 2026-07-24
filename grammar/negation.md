@@ -50,6 +50,14 @@ See [vocabulary/verbs/group-3/avoir.md](../vocabulary/verbs/group-3/avoir.md).
 
 Note from the source, on why the same kind of object can take either article with *avoir*: "J'ai une télévision (un magnétoscope, un caméscope)" = the object itself, vs. "J'ai la télévision (le téléphone, le gaz)" = the service/utility.
 
+**Partitive articles (du, de la, de l') become "de"** (or "d'" before a vowel) under negation, the same way indefinite des does:
+
+- Je bois **du** lait. → Je ne bois pas **de** lait.
+- Elle mange **de la** viande. → Elle ne mange pas **de** viande.
+- Je prends **de l'**eau. → Je ne prends pas **d'**eau.
+
+See [grammar/partitive-articles.md](partitive-articles.md).
+
 ## Other negation patterns
 
 Beyond "ne...pas", French has several other two-part negation patterns, all following the same "ne + verb + [second part]" frame:
@@ -97,6 +105,7 @@ The same two-part patterns apply when negating [le futur proche](futur-proche.md
 - [grammar/definite-articles.md](definite-articles.md)
 - [grammar/avoir-present.md](avoir-present.md)
 - [grammar/futur-proche.md](futur-proche.md)
+- [grammar/partitive-articles.md](partitive-articles.md)
 
 ## Source Lessons
 
@@ -106,3 +115,4 @@ The same two-part patterns apply when negating [le futur proche](futur-proche.md
 - [lesson_00024](../lessons/lesson_00024.md)
 - [lesson_00035](../lessons/lesson_00035.md)
 - [lesson_00036](../lessons/lesson_00036.md)
+- [lesson_00039](../lessons/lesson_00039.md)

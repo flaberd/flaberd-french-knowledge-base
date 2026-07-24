@@ -38,3 +38,5 @@
 - [lesson_00036](lesson_00036.md) — Leçon 39 : Négation (recap) + Vouloir + Le futur proche (2025-12-27)
 - [lesson_00037](lesson_00037.md) — Leçon 40 (1/2) : Les articles partitifs + Boire, Mettre et Vouloir (2026-01-04)
 - [lesson_00038](lesson_00038.md) — Leçon 40 (2/2) : Partitif 2 (2026-01-17, teacher numbering repeats "Leçon 40" — see lesson_00037 for the collision note)
+- [lesson_00039](lesson_00039.md) — Leçon 41 : Partitif 3 (2026-01-24)
+- [lesson_00040](lesson_00040.md) — Leçon 41 (labeled) / Leçon 42 (filename) : Partitif 4 (2026-01-31, teacher numbering repeats "Leçon 41" — see lesson_00039 for the collision note; filename date also mismatches, see lesson_00040 for the note)
