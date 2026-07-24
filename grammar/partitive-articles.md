@@ -85,3 +85,4 @@ Some verbs take **de** alone (no article) before an abstract or generic noun:
 - [lesson_00037](../lessons/lesson_00037.md)
 - [lesson_00038](../lessons/lesson_00038.md)
 - [lesson_00039](../lessons/lesson_00039.md)
+- [lesson_00042](../lessons/lesson_00042.md)

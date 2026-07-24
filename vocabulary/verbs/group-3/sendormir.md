@@ -56,3 +56,4 @@ Despite ending in -ir, *s'endormir* is **not** a 2e groupe verb: it is built on 
 # Source Lessons
 
 - [lesson_00019](../../../lessons/lesson_00019.md)
+- [lesson_00041](../../../lessons/lesson_00041.md)

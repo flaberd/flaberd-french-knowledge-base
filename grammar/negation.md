@@ -71,14 +71,16 @@ Beyond "ne...pas", French has several other two-part negation patterns, all foll
 | ne...que | only (restrictive) | Je ne mange que des légumes. Ils ne parlent que français. |
 | ne...nulle part | nowhere | Il ne trouve nulle part ses clés. Nous n'allons nulle part ce week-end. |
 | ne plus | no longer / no more | Je ne fume plus. |
+| ne...guère | hardly / barely | Vous ne mangez guère de viande rouge. |
 
 Notes on individual patterns:
 
 - **ne...aucun/aucune** agrees in gender with the noun it modifies (aucun ami, aucune idée), like an adjective/determiner.
 - **ne...que** is restrictive ("only"), not a true negation of existence — it doesn't take "pas" as well (*je ne mange que des légumes*, not ~~je ne mange pas que~~).
 - **ne...jamais**, **ne...rien**, **ne...personne**, **ne...aucun(e)**, and **ne...nulle part** can all combine with *ne...plus* in meaning but not stack with *ne...pas* in the same clause.
+- **ne...guère** behaves like **ne...pas** grammatically (same "de" reduction of partitive/indefinite articles applies after it), but softens the negation to "hardly/barely" rather than a full negation.
 
-Vocabulary: [rien](../vocabulary/pronouns/rien.md), [personne](../vocabulary/pronouns/personne.md), [aucun](../vocabulary/determiners/aucun.md), [nulle part](../vocabulary/adverbs/nulle-part.md), [plus](../vocabulary/adverbs/plus.md).
+Vocabulary: [rien](../vocabulary/pronouns/rien.md), [personne](../vocabulary/pronouns/personne.md), [aucun](../vocabulary/determiners/aucun.md), [nulle part](../vocabulary/adverbs/nulle-part.md), [plus](../vocabulary/adverbs/plus.md), [guère](../vocabulary/adverbs/guère.md).
 
 ## Rien / personne as the subject
 
@@ -116,3 +118,4 @@ The same two-part patterns apply when negating [le futur proche](futur-proche.md
 - [lesson_00035](../lessons/lesson_00035.md)
 - [lesson_00036](../lessons/lesson_00036.md)
 - [lesson_00039](../lessons/lesson_00039.md)
+- [lesson_00042](../lessons/lesson_00042.md)

@@ -73,7 +73,7 @@ With *avoir* at the negative, indefinite articles (un/une/des) become "de": Il a
 
 # Notes
 
-Previously flagged in [lesson_00016](../../../lessons/lesson_00016.md) as a 3e groupe verb "not yet taught"; its present-tense conjugation, negative form, and the "avoir + âge" idiom are now taught in [lesson_00020](../../../lessons/lesson_00020.md). Reinforced with further practice in [lesson_00022](../../../lessons/lesson_00022.md). The negative conjugation table and the pas de/pas le rule, plus the expressions avoir l'intention (de), avoir honte (de), and avoir l'air, are added in [lesson_00023](../../../lessons/lesson_00023.md). The expression "avoir lieu" appears (already used, unexplained, in a [lesson_00027](../../../lessons/lesson_00027.md) exercise sentence) and is called out prominently in [lesson_00028](../../../lessons/lesson_00028.md).
+Previously flagged in [lesson_00016](../../../lessons/lesson_00016.md) as a 3e groupe verb "not yet taught"; its present-tense conjugation, negative form, and the "avoir + âge" idiom are now taught in [lesson_00020](../../../lessons/lesson_00020.md). Reinforced with further practice in [lesson_00022](../../../lessons/lesson_00022.md). The negative conjugation table and the pas de/pas le rule, plus the expressions avoir l'intention (de), avoir honte (de), and avoir l'air, are added in [lesson_00023](../../../lessons/lesson_00023.md). The expression "avoir lieu" appears (already used, unexplained, in a [lesson_00027](../../../lessons/lesson_00027.md) exercise sentence) and is called out prominently in [lesson_00028](../../../lessons/lesson_00028.md). The partitif exam in [lesson_00042](../../../lessons/lesson_00042.md) drills "avoir besoin de" and "avoir envie de" specifically as the certain-verbs-+-de-alone pattern (see [grammar/partitive-articles.md](../../../grammar/partitive-articles.md#54-with-certain-verbs--abstractgeneric-noun)); both were among the missed items.
 
 ---
 
@@ -92,3 +92,4 @@ Previously flagged in [lesson_00016](../../../lessons/lesson_00016.md) as a 3e g
 - [lesson_00020](../../../lessons/lesson_00020.md)
 - [lesson_00022](../../../lessons/lesson_00022.md)
 - [lesson_00023](../../../lessons/lesson_00023.md)
+- [lesson_00042](../../../lessons/lesson_00042.md)

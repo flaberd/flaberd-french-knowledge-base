@@ -40,3 +40,6 @@
 - [lesson_00038](lesson_00038.md) — Leçon 40 (2/2) : Partitif 2 (2026-01-17, teacher numbering repeats "Leçon 40" — see lesson_00037 for the collision note)
 - [lesson_00039](lesson_00039.md) — Leçon 41 : Partitif 3 (2026-01-24)
 - [lesson_00040](lesson_00040.md) — Leçon 41 (labeled) / Leçon 42 (filename) : Partitif 4 (2026-01-31, teacher numbering repeats "Leçon 41" — see lesson_00039 for the collision note; filename date also mismatches, see lesson_00040 for the note)
+- [lesson_00041](lesson_00041.md) — Leçon 43 : EO (2026-02-07)
+- [lesson_00042](lesson_00042.md) — Leçon 44 (labeled "EO") : Partitif Examen (2026-02-14, graded exam, B-)
+- [lesson_00043](lesson_00043.md) — Leçon 45 : CE A1+ finalisation (2026-02-20)
