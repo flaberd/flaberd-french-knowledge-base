@@ -35,6 +35,7 @@ This section contains grammar and pronunciation topics that have been studied.
 - [Numbers 1–50](numbers-1-50.md)
 - [Numbers 80 and above](numbers-80-and-above.md)
 - [Partitive articles](partitive-articles.md)
+- [Le passé composé](passe-compose.md)
 - [Le passé récent](passe-recent.md)
 - [Personal pronouns](personal-pronouns.md)
 - [Possessive adjectives: mon, ton, son...](possessive-adjectives.md)

@@ -46,3 +46,6 @@
 - [lesson_00044](lesson_00044.md) — Leçon 46 : EE/EO A1+ finalisation (2026-03-07, graded essay + corrections)
 - [lesson_00045](lesson_00045.md) — Leçon 47 : CO A1+ wrap-up — le passé récent + le comparatif (2026-03-21)
 - [lesson_00046](lesson_00046.md) — Leçon 48 : l'Imparfait — A2, on attaque (2026-04-04, start of A2 level)
+- [lesson_00047](lesson_00047.md) — Leçon 49 : l'Imparfait 2 (2026-04-11, recap + practice)
+- [lesson_00048](lesson_00048.md) — Leçon 50 : l'Imparfait 3 (2026-04-19, graded essay + corrections)
+- [lesson_00049](lesson_00049.md) — Leçon 51 : le Passé Composé 1 (2026-04-25)

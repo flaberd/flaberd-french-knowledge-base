@@ -62,14 +62,25 @@ The two "-ir" columns show the split already documented in [grammar/verb-groups.
 
 Every other verb, however irregular its present tense, forms the imparfait regularly from its own *nous* form (avoir → nous avons → av-; aller → nous allons → all-; faire → nous faisons → fais-, etc.).
 
+## Common mistakes (from graded essay corrections)
+
+- **Subject-verb agreement**: the ils/elles form is *-aient*, not *-ait* — "les professeurs qui travaillaient là-bas **était** tellement gentils" should be "**étaient**" (agrees with the plural subject "les professeurs"). Flagged in [lesson_00048](../lessons/lesson_00048.md).
+- **Tense consistency**: once a passage is set in the imparfait (e.g. a "when I was little..." narrative), every verb describing that same habitual past should stay in the imparfait — don't slip into the présent or passé composé mid-paragraph. E.g. "Ils étaient très contents quand **je suis arrivé**" should be "**j'arrivais**"; "les pommes **sont** mes fruits préférés" (in a past-tense paragraph) should be "**étaient**". See [lesson_00048](../lessons/lesson_00048.md).
+- **Elision before être**: "il y a" → "il y **avait**" (imparfait of the impersonal *il y a*), not a separate rule but a common recap point.
+- Ordinary adjective agreement/elision mistakes (e.g. "**ma** école" → "**mon** école", since *école* is feminine but vowel-initial) are **not** specific to the imparfait — see [grammar/possessive-adjectives.md](possessive-adjectives.md) — but appeared in the same graded essay.
+
 ## Related grammar
 
 - [grammar/verb-groups.md](verb-groups.md)
 - [grammar/passe-recent.md](passe-recent.md) *(the other near-past/near-future constructions on the tense timeline)*
+- [grammar/passe-compose.md](passe-compose.md) *(the key usage contrast: ongoing/habitual vs. punctual/completed)*
 - [grammar/futur-proche.md](futur-proche.md)
 - [grammar/negation.md](negation.md)
 - [grammar/er-verbs-stem-changes.md](er-verbs-stem-changes.md)
+- [grammar/possessive-adjectives.md](possessive-adjectives.md)
 
 ## Source Lessons
 
 - [lesson_00046](../lessons/lesson_00046.md)
+- [lesson_00047](../lessons/lesson_00047.md)
+- [lesson_00048](../lessons/lesson_00048.md)
