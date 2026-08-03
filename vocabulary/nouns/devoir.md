@@ -33,7 +33,7 @@ des devoirs
 
 # Notes
 
-Distinct from the group-3 verb *devoir* (must/to have to), which has not been formally taught yet — no verb entry was created for it, consistent with the precedent set in [lessons/lesson_00015.md](../../lessons/lesson_00015.md).
+Distinct from the group-3 verb [devoir](../verbs/group-3/devoir.md) (must/to have to). Its past participle **dû** (as in "j'ai **dû** payer") takes a circumflex specifically to avoid confusion with the partitive article **du** — see [grammar/passe-compose.md](../../grammar/passe-compose.md#3e-groupe-irregular-patterns).
 
 ---
 
@@ -48,3 +48,4 @@ Distinct from the group-3 verb *devoir* (must/to have to), which has not been fo
 
 - [lesson_00015](../../lessons/lesson_00015.md)
 - [lesson_00017](../../lessons/lesson_00017.md)
+- [lesson_00057](../../lessons/lesson_00057.md)

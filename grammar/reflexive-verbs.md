@@ -41,6 +41,15 @@ Reflexive/pronominal verbs always take **être** as the auxiliary — never avoi
 
 Contrast with the same underlying verb used **non-reflexively** with avoir: *inscrire* — "il **a inscrit** son frère" (avoir, direct object "son frère", no agreement) vs. "elle **s'est inscrite**" (être, reflexive — *s'inscrire*, "to enroll" — participle agrees with the subject "elle"). See [vocabulary/verbs/group-3/inscrire.md](../vocabulary/verbs/group-3/inscrire.md).
 
+### Exception: no agreement when the reflexive pronoun is an indirect object
+
+The participle does **not** agree with the subject when the sentence already has its own direct object and the reflexive pronoun is really an indirect object (the body part belongs *to* the subject, rather than the subject acting directly on itself):
+
+- Tu **t'es lavé** les mains. *(no agreement — "les mains" is the direct object, "te" answers "lavé **à qui** les mains ?" → à toi, an indirect object)*
+- Compare: Tu **t'es lavée**. *(agreement — here "te" is a direct object, "toi-même")*
+
+This is the same preceding-COD logic as [grammar/direct-object-pronouns.md](direct-object-pronouns.md#participle-agreement-in-the-passé-composé): agreement tracks a *preceding direct object*, not the reflexive pronoun itself or the subject.
+
 ## Negation
 
 "Ne" goes before the reflexive pronoun, not between the pronoun and the verb — same rule in both tenses:
@@ -71,3 +80,4 @@ See [grammar/negation.md](negation.md#negating-the-passé-composé) for the full
 - [lesson_00050](../lessons/lesson_00050.md)
 - [lesson_00054](../lessons/lesson_00054.md)
 - [lesson_00055](../lessons/lesson_00055.md)
+- [lesson_00057](../lessons/lesson_00057.md)

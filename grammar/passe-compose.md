@@ -107,6 +107,8 @@ finir → fin**i**, choisir → chois**i**, réussir → réuss**i**.
 | connaître | connu |
 | vivre | vécu |
 
+**Common spelling mistake — dû vs. du**: devoir's past participle **dû** takes a circumflex specifically to distinguish it from the partitive article **du** (see [grammar/partitive-articles.md](partitive-articles.md)) — "nous avons **dû** payer" (had to pay), not ~~"nous avons du payer"~~. The circumflex disappears in the feminine/plural: due, dus, dues.
+
 **-is**: mettre → mis, prendre → pris, comprendre → compris, apprendre → appris, asseoir → assis.
 
 **-ert**: ouvrir → ouvert, offrir → offert, souffrir → souffert, découvrir → découvert.
@@ -139,3 +141,4 @@ finir → fin**i**, choisir → chois**i**, réussir → réuss**i**.
 - [lesson_00052](../lessons/lesson_00052.md)
 - [lesson_00055](../lessons/lesson_00055.md)
 - [lesson_00056](../lessons/lesson_00056.md)
+- [lesson_00057](../lessons/lesson_00057.md)

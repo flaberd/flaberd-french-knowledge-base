@@ -56,3 +56,4 @@
 - [lesson_00054](lesson_00054.md) — Leçon 56 : le Passé Composé 6 (2026-07-04, négation recap + reflexive negation)
 - [lesson_00055](lesson_00055.md) — Leçon 57 : le Passé Composé 6.1 — négation (2026-07-11, negating the passé composé)
 - [lesson_00056](lesson_00056.md) — Leçon 58 : Examen PC (2026-07-18, graded exam, 95/100 items / 85% displayed)
+- [lesson_00057](lesson_00057.md) — Leçon 59 : Examen PC Tentative 2 (2026-08-03, graded exam retake, 60/100 + 100%, large new oral question bank)

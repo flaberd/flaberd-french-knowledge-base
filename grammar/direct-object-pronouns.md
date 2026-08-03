@@ -62,3 +62,4 @@ This is a distinct rule from the être-subject agreement in [grammar/passe-compo
 - [lesson_00033](../lessons/lesson_00033.md)
 - [lesson_00052](../lessons/lesson_00052.md)
 - [lesson_00056](../lessons/lesson_00056.md)
+- [lesson_00057](../lessons/lesson_00057.md)
