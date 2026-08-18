@@ -57,3 +57,5 @@
 - [lesson_00055](lesson_00055.md) — Leçon 57 : le Passé Composé 6.1 — négation (2026-07-11, negating the passé composé)
 - [lesson_00056](lesson_00056.md) — Leçon 58 : Examen PC (2026-07-18, graded exam, 95/100 items / 85% displayed)
 - [lesson_00057](lesson_00057.md) — Leçon 59 : Examen PC Tentative 2 (2026-08-03, graded exam retake, 60/100 + 100%, large new oral question bank)
+- [lesson_00058](lesson_00058.md) — Leçon 60 : Examen PC EO + CO (2026-08-08, passé composé oral practice — Banff/immigration/origin theme)
+- [lesson_00059](lesson_00059.md) — Leçon 61 : Vidéo + EO (2026-08-15, passé composé oral practice — transport/reflexive "se casser" + dictée DM)
