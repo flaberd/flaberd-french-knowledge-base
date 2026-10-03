@@ -64,3 +64,4 @@ The "C'est..." shorthand from above also follows the des→de shift when the nou
 
 - [lesson_00020](../lessons/lesson_00020.md)
 - [lesson_00022](../lessons/lesson_00022.md)
+- [lesson_00063](../lessons/lesson_00063.md)

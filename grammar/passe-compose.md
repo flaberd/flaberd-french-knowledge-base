@@ -142,3 +142,4 @@ finir → fin**i**, choisir → chois**i**, réussir → réuss**i**.
 - [lesson_00055](../lessons/lesson_00055.md)
 - [lesson_00056](../lessons/lesson_00056.md)
 - [lesson_00057](../lessons/lesson_00057.md)
+- [lesson_00060](../lessons/lesson_00060.md)

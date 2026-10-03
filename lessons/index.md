@@ -59,3 +59,7 @@
 - [lesson_00057](lesson_00057.md) — Leçon 59 : Examen PC Tentative 2 (2026-08-03, graded exam retake, 60/100 + 100%, large new oral question bank)
 - [lesson_00058](lesson_00058.md) — Leçon 60 : Examen PC EO + CO (2026-08-08, passé composé oral practice — Banff/immigration/origin theme)
 - [lesson_00059](lesson_00059.md) — Leçon 61 : Vidéo + EO (2026-08-15, passé composé oral practice — transport/reflexive "se casser" + dictée DM)
+- [lesson_00060](lesson_00060.md) — Leçon 62 : le Passé Composé — CE (2026-08-22, Omar Sy biography + Eva Green homework)
+- [lesson_00061](lesson_00061.md) — Leçon 63 : Mots + CE (2026-08-29, Omar Sy reading review + 20-word dictation homework)
+- [lesson_00062](lesson_00062.md) — Leçon 63 (revised source) : Mots + CE (2026-09-05, repeated teacher numbering + 30-word dictation homework)
+- [lesson_00063](lesson_00063.md) — Leçon 63 (expanded revised source) : Mots + CE (2026-09-26, adjective position + feminine forms + 40-word dictation homework)
